@@ -3,6 +3,7 @@ font-family: sans-serif;
 }
 #big text {
 font-weight: bold;
-text-direction: vertical-lr;
-cursor: crosshiar;
+writing-mode: vertical-lr;
+cursor: crosshair;
+font-size: 50px;
 }
